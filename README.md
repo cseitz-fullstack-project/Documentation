@@ -16,5 +16,5 @@ The running list of what this project will consist of is:
 - Load Balancing
 - Graphing and Data Analytics
 - Security
-- 
+- AssemblyScript & WebAssembly
 
